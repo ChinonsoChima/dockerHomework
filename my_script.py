@@ -1,4 +1,3 @@
-
 from pystrich.datamatrix import DataMatrixEncoder
 
 encoder = DataMatrixEncoder('This is a DataMatrix.')
